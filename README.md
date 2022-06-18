@@ -6,7 +6,7 @@
   </samp>
   <br>
   <br>
-  <img src="https://github.com/haleema-liyu/AboutMe/blob/main/dog-anime.gif" width="350" />
+  <img src="https://github.com/haleema-liyu/haleema-liyu/blob/main/avatar.gif" width="350" />
 </p>
 
 ------------
